@@ -1,0 +1,159 @@
+[
+  {
+    "name": "Smartphone X",
+    "price": 599.99,
+    "description": "A high-performance smartphone with advanced features.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "smartphone_x_front.jpg"
+      },
+      {
+        "image": "smartphone_x_back.jpg"
+      }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Tech Emporium",
+    "stock": 10,
+    "numOfReviews": 15,
+    "reviews": [
+      {
+        "name": "HappyCustomer123",
+        "rating": 5,
+        "comment": "Absolutely love this smartphone! It's fast and the camera quality is amazing."
+      },
+      {
+        "name": "TechGeek42",
+        "rating": 4,
+        "comment": "Great value for the price. Battery life could be better, but overall a solid phone."
+      }
+    ],
+    "createdAt": "2024-03-11T12:00:00.000Z"
+  },
+
+  {
+    "name": "Wireless Noise-Cancelling Headphones",
+    "price": 199.99,
+    "description": "Immerse yourself in music with these premium noise-cancelling headphones.",
+    "ratings": 4.5,
+    "images": [
+      {
+        "image": "headphones_black.jpg"
+      },
+      {
+        "image": "headphones_white.jpg"
+      }
+    ],
+    "category": "Headphones",
+    "seller": "AudioHaven",
+    "stock": 10,
+    "numOfReviews": 10,
+    "reviews": [
+      {
+        "name": "MusicLover88",
+        "rating": 5,
+        "comment": "Incredible sound quality and the noise cancellation works like a charm!"
+      },
+      {
+        "name": "Audiophile123",
+        "rating": 4,
+        "comment": "Very comfortable to wear for extended periods. Would recommend."
+      }
+    ],
+    "createdAt": "2024-03-10T09:30:00.000Z"
+  },
+
+  {
+    "name": "Ultra HD Smart TV",
+    "price": 1299.99,
+    "description": "Experience entertainment like never before with this stunning 4K smart TV.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "tv_living_room.jpg"
+      },
+      {
+        "image": "tv_bedroom.jpg"
+      }
+    ],
+    "category": "Electronics",
+    "seller": "Tech World",
+    "stock":10,
+    "numOfReviews": 8,
+    "reviews": [
+      {
+        "name": "MovieBuff77",
+        "rating": 5,
+        "comment": "The picture quality is breathtaking! Perfect for movie nights."
+      },
+      {
+        "name": "GamerGuy123",
+        "rating": 4,
+        "comment": "Great TV for gaming. Low input lag and vibrant colors."
+      }
+    ],
+    "createdAt": "2024-03-09T15:45:00.000Z"
+  },
+  {
+    "name": "Fitness Tracker Watch",
+    "price": 79.99,
+    "description": "Stay active and monitor your health with this sleek fitness tracker watch.",
+    "ratings": 4.2,
+    "images": [
+      {
+        "image": "fitness_tracker_black.jpg"
+      },
+      {
+        "image": "fitness_tracker_blue.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "FitGear",
+    "stock": 10,
+    "numOfReviews": 20,
+    "reviews": [
+      {
+        "name": "ActiveRunner1",
+        "rating": 5,
+        "comment": "Love the features! It tracks my steps accurately and motivates me to stay active."
+      },
+      {
+        "name": "HealthEnthusiast99",
+        "rating": 4,
+        "comment": "Very useful for monitoring heart rate during workouts. Comfortable to wear."
+      }
+    ],
+    "createdAt": "2024-03-08T18:20:00.000Z"
+  },
+  {
+    "name": "Gourmet Coffee Beans",
+    "price": 24.99,
+    "description": "Indulge in the rich flavors of premium gourmet coffee beans from around the world.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "coffee_beans_colombia.jpg"
+      },
+      {
+        "image": "coffee_beans_ethiopia.jpg"
+      }
+    ],
+    "category": "Food",
+    "seller": "Bean Bliss",
+    "stock": 10,
+    "numOfReviews": 12,
+    "reviews": [
+      {
+        "name": "CoffeeConnoisseur123",
+        "rating": 5,
+        "comment": "Absolutely divine! These coffee beans produce the perfect cup every time."
+      },
+      {
+        "name": "MorningRiser",
+        "rating": 4,
+        "comment": "Great aroma and flavor. Makes waking up in the morning a pleasure."
+      }
+    ],
+    "createdAt": "2024-03-07T11:10:00.000Z"
+  }
+]
